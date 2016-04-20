@@ -1,2 +1,2 @@
 # SHH
-stochastic haskin huxley model
+ Stochastic hodgkin huxley
